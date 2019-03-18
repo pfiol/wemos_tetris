@@ -30,9 +30,9 @@ uint8_t soundType=SOUND_ALL;
 uint16_t totalMenuItems=0;
 uint16_t charWidth=10;
 
-char myName[6]="Pedro";
-char wifiName[65]="TP-Link_3700";
-char wifiPassword[65]="18964196";
+char myName[6]="John";
+char wifiName[65]="";
+char wifiPassword[65]="";
 int16_t totalAPs=0;
 int16_t listWidth=0,listScrollPos=0,listMaxScrollPos=0;
 int16_t timeoutCnt=0;
